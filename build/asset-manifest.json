@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a617baa.chunk.css",
-    "main.js": "/static/js/main.7a86509d.chunk.js",
-    "main.js.map": "/static/js/main.7a86509d.chunk.js.map",
+    "main.css": "/static/css/main.daaf56c2.chunk.css",
+    "main.js": "/static/js/main.91f7db87.chunk.js",
+    "main.js.map": "/static/js/main.91f7db87.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
     "static/js/2.cb8838ea.chunk.js": "/static/js/2.cb8838ea.chunk.js",
     "static/js/2.cb8838ea.chunk.js.map": "/static/js/2.cb8838ea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2fd07dee0157a94297512abdecce94fb.js": "/precache-manifest.2fd07dee0157a94297512abdecce94fb.js",
+    "precache-manifest.e603226a1c0f4f62aca874c355d4e40b.js": "/precache-manifest.e603226a1c0f4f62aca874c355d4e40b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5a617baa.chunk.css.map": "/static/css/main.5a617baa.chunk.css.map",
+    "static/css/main.daaf56c2.chunk.css.map": "/static/css/main.daaf56c2.chunk.css.map",
     "static/js/2.cb8838ea.chunk.js.LICENSE.txt": "/static/js/2.cb8838ea.chunk.js.LICENSE.txt",
     "static/media/AlietumBiereBlonde.png": "/static/media/AlietumBiereBlonde.60d8993b.png",
     "static/media/BlancPoire.png": "/static/media/BlancPoire.7f11ab18.png",
@@ -106,7 +106,7 @@
     "static/media/masdecadenetCDPr.png": "/static/media/masdecadenetCDPr.321ed021.png",
     "static/media/menu14-17.jpg": "/static/media/menu14-17.fe30f32e.jpg",
     "static/media/merlotrouge.png": "/static/media/merlotrouge.f0bb8639.png",
-    "static/media/modified_IMG_9729.JPG": "/static/media/modified_IMG_9729.5c07b12d.JPG",
+    "static/media/modified_IMG_9729.JPG": "/static/media/modified_IMG_9729.7c5eaf7f.JPG",
     "static/media/montiriusCDR.png": "/static/media/montiriusCDR.25661ac1.png",
     "static/media/naturo.JPG": "/static/media/naturo.91b481c4.JPG",
     "static/media/nicestage3.JPG": "/static/media/nicestage3.35dac676.JPG",
@@ -137,7 +137,7 @@
     "static/media/souslemont.png": "/static/media/souslemont.fdec636c.png",
     "static/media/syrahrosé.png": "/static/media/syrahrosé.049585eb.png",
     "static/media/trinch.png": "/static/media/trinch.fac754d0.png",
-    "static/media/vinbio.jpg": "/static/media/vinbio.fbda3481.jpg",
+    "static/media/vinbio.jpg": "/static/media/vinbio.f2b098fa.jpg",
     "static/media/vincentbliard.png": "/static/media/vincentbliard.e759dba0.png",
     "static/media/vinsbackground.jpg": "/static/media/vinsbackground.9b9b187f.jpg",
     "static/media/vrac-bg.JPG": "/static/media/vrac-bg.cd98e33f.JPG",
@@ -150,7 +150,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ba1596e.js",
     "static/js/2.cb8838ea.chunk.js",
-    "static/css/main.5a617baa.chunk.css",
-    "static/js/main.7a86509d.chunk.js"
+    "static/css/main.daaf56c2.chunk.css",
+    "static/js/main.91f7db87.chunk.js"
   ]
 }
