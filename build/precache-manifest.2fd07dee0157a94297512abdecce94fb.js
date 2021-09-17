@@ -1,31 +1,67 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d369fc6652ef7227ec0f1d3b507200ec",
+    "revision": "14cbea6cbc7f627637725ed13f5b0730",
     "url": "/index.html"
   },
   {
-    "revision": "6bf8c1e68ef4b614f009",
-    "url": "/static/css/main.641e5a14.chunk.css"
+    "revision": "561747ebfed02670015c",
+    "url": "/static/css/main.5a617baa.chunk.css"
   },
   {
-    "revision": "12ab9a81663ea8866a2b",
-    "url": "/static/js/2.b581a378.chunk.js"
+    "revision": "bc85c0f8285e4918d8d8",
+    "url": "/static/js/2.cb8838ea.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/static/js/2.b581a378.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.cb8838ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6bf8c1e68ef4b614f009",
-    "url": "/static/js/main.be275bc0.chunk.js"
+    "revision": "561747ebfed02670015c",
+    "url": "/static/js/main.7a86509d.chunk.js"
   },
   {
     "revision": "6fc4f2c3fd5ae8d05fd1",
     "url": "/static/js/runtime-main.4ba1596e.js"
   },
   {
+    "revision": "60d8993b151c5f4bd5e0bba2e877bf04",
+    "url": "/static/media/AlietumBiereBlonde.60d8993b.png"
+  },
+  {
+    "revision": "7f11ab183f91361c407fb24560b035f5",
+    "url": "/static/media/BlancPoire.7f11ab18.png"
+  },
+  {
     "revision": "aeb3dca0fcad3dd2831554ad9691602e",
     "url": "/static/media/CDPr.aeb3dca0.png"
+  },
+  {
+    "revision": "f8998b4057c44639233035d15b4d1e41",
+    "url": "/static/media/ChardonnayBlanc.f8998b40.png"
+  },
+  {
+    "revision": "7421656f2d9568c87266f0335db63bbb",
+    "url": "/static/media/CharlesFreyGewurztramineur.7421656f.png"
+  },
+  {
+    "revision": "31383506d84f747c75d58bd491794514",
+    "url": "/static/media/CharlesFreyRiesling.31383506.png"
+  },
+  {
+    "revision": "63f6e7fa44ec42920eadba2bb164a765",
+    "url": "/static/media/CremeDeMirabelle.63f6e7fa.png"
+  },
+  {
+    "revision": "736fcdad1a69259e70f2e3e9c81949cb",
+    "url": "/static/media/CuvéeLeSoleiller.736fcdad.png"
+  },
+  {
+    "revision": "525aa3a75f9c3b4e9e66efcc7fd1bad5",
+    "url": "/static/media/EmilianGiletQuintaine.525aa3a7.png"
+  },
+  {
+    "revision": "5b4b2a6ab714e8e1ffd501323091a198",
+    "url": "/static/media/EricioBiere.5b4b2a6a.png"
   },
   {
     "revision": "19aeb984549c97e55f004e3f93a8081c",
@@ -52,8 +88,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/IMG_9775.fb4b773b.JPG"
   },
   {
-    "revision": "321ed021553140f8829c9dda1c255342",
-    "url": "/static/media/IMG_9876-removebg-preview.321ed021.png"
+    "revision": "4d4d93b19426c196935c1b63b9ffef93",
+    "url": "/static/media/LaDilletante.4d4d93b1.png"
+  },
+  {
+    "revision": "e1fa35859c3e8b149d113555b5b4862b",
+    "url": "/static/media/LaMarouretteChardonay.e1fa3585.png"
+  },
+  {
+    "revision": "82cafd9e599d19fc53c9396a6dd9ce71",
+    "url": "/static/media/LaMarouretteSansSulfite.82cafd9e.png"
+  },
+  {
+    "revision": "d6cca6df74b114f645bcca7e9d104674",
+    "url": "/static/media/LesPierresBlanchesCDB.d6cca6df.png"
+  },
+  {
+    "revision": "566d9450d6ff3e38b611856949003680",
+    "url": "/static/media/MChapoutier.566d9450.png"
+  },
+  {
+    "revision": "f61339e11cb67719754d90e8e58f8a24",
+    "url": "/static/media/MuscatDeRivesaltes.f61339e1.png"
+  },
+  {
+    "revision": "460851a4922c00829110007d0edc557c",
+    "url": "/static/media/PapagayoRhum.460851a4.png"
+  },
+  {
+    "revision": "94f1091497443d0a1a1c822a72cd4d79",
+    "url": "/static/media/UbyBioN24.94f10914.png"
   },
   {
     "revision": "20b9e05d2b15a98f2d617ddb43dfbc3b",
@@ -348,6 +412,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/modified_IMG_9729.5c07b12d.JPG"
   },
   {
+    "revision": "25661ac18215d64cf9bdcaf5032faadc",
+    "url": "/static/media/montiriusCDR.25661ac1.png"
+  },
+  {
     "revision": "91b481c417ce866d8f48b0fe177f8f64",
     "url": "/static/media/naturo.91b481c4.JPG"
   },
@@ -392,8 +460,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/painsportif lvc.875b7db2.JPG"
   },
   {
+    "revision": "50cb6b3ec543b28141a5b348683c8b25",
+    "url": "/static/media/petitchablis.50cb6b3e.png"
+  },
+  {
     "revision": "25382a358fbf2a180e61dfadc21cdcd8",
     "url": "/static/media/plant.25382a35.svg"
+  },
+  {
+    "revision": "c8e4f790aab54abbf2e7ead481fe5b70",
+    "url": "/static/media/pontdecayllus.c8e4f790.png"
   },
   {
     "revision": "2d7d4043a254f53458892d50a9ff9ce8",
@@ -406,6 +482,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0045bb3a1e3d873e48d83e14a7df69ec",
     "url": "/static/media/quiche.0045bb3a.JPG"
+  },
+  {
+    "revision": "7a33ae9b275a9de5cdaaa1c2c5787beb",
+    "url": "/static/media/rhumArrangéAnanasPassion.7a33ae9b.png"
   },
   {
     "revision": "279196e37844ff702af163035a67c609",
@@ -432,12 +512,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/soinducorps.02ca3142.jpg"
   },
   {
+    "revision": "079cddc79fb3fc2a6601aa8383fdfdb0",
+    "url": "/static/media/soleiller.079cddc7.png"
+  },
+  {
+    "revision": "57bc0706c0bf2864bd4bc7aa625916a6",
+    "url": "/static/media/soleiller25cl.57bc0706.png"
+  },
+  {
+    "revision": "fdec636c374c05a7e46ede85dce8f1dc",
+    "url": "/static/media/souslemont.fdec636c.png"
+  },
+  {
     "revision": "049585eb832a50d98e48a0637c0cb78a",
     "url": "/static/media/syrahrosé.049585eb.png"
   },
   {
-    "revision": "94f1091497443d0a1a1c822a72cd4d79",
-    "url": "/static/media/ubybio.94f10914.png"
+    "revision": "fac754d03a41239fb6723fac44a8a8fd",
+    "url": "/static/media/trinch.fac754d0.png"
   },
   {
     "revision": "fbda3481f9057c9c28084e2a4502e43f",
