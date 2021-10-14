@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.314ae358.chunk.css",
-    "main.js": "/static/js/main.0c048cba.chunk.js",
-    "main.js.map": "/static/js/main.0c048cba.chunk.js.map",
+    "main.css": "/static/css/main.d537b2b9.chunk.css",
+    "main.js": "/static/js/main.a1bd5ad1.chunk.js",
+    "main.js.map": "/static/js/main.a1bd5ad1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
-    "static/js/2.27db0118.chunk.js": "/static/js/2.27db0118.chunk.js",
-    "static/js/2.27db0118.chunk.js.map": "/static/js/2.27db0118.chunk.js.map",
+    "static/js/2.6c7022f7.chunk.js": "/static/js/2.6c7022f7.chunk.js",
+    "static/js/2.6c7022f7.chunk.js.map": "/static/js/2.6c7022f7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.461de08c467e4aea7d05be7376b6754a.js": "/precache-manifest.461de08c467e4aea7d05be7376b6754a.js",
+    "precache-manifest.b993f10416f34ba358acfe47d4ea4f40.js": "/precache-manifest.b993f10416f34ba358acfe47d4ea4f40.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.314ae358.chunk.css.map": "/static/css/main.314ae358.chunk.css.map",
-    "static/js/2.27db0118.chunk.js.LICENSE.txt": "/static/js/2.27db0118.chunk.js.LICENSE.txt",
+    "static/css/main.d537b2b9.chunk.css.map": "/static/css/main.d537b2b9.chunk.css.map",
+    "static/js/2.6c7022f7.chunk.js.LICENSE.txt": "/static/js/2.6c7022f7.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.10656857.jpg",
     "static/media/1.JPG": "/static/media/1.1b335325.JPG",
     "static/media/10.jpg": "/static/media/10.8c50bc18.jpg",
@@ -120,7 +120,6 @@
     "static/media/lepuy.png": "/static/media/lepuy.c5385a3b.png",
     "static/media/lesmeysonnierCH.png": "/static/media/lesmeysonnierCH.756e1399.png",
     "static/media/lesmeysonnierCH2.png": "/static/media/lesmeysonnierCH2.82f0a07e.png",
-    "static/media/livraisons-parallax.jpg": "/static/media/livraisons-parallax.6aa7b106.jpg",
     "static/media/livraisons.jpg": "/static/media/livraisons.2fa5a9e2.jpg",
     "static/media/lvc-beauvais.svg": "/static/media/lvc-beauvais.291ee8ee.svg",
     "static/media/lvcmap.png": "/static/media/lvcmap.20cc28e7.png",
@@ -140,7 +139,6 @@
     "static/media/modified_IMG_9729.JPG": "/static/media/modified_IMG_9729.7c5eaf7f.JPG",
     "static/media/montiriusCDR.png": "/static/media/montiriusCDR.25661ac1.png",
     "static/media/naturo-img-parallax.jpg": "/static/media/naturo-img-parallax.835270fb.jpg",
-    "static/media/naturo-img.JPG": "/static/media/naturo-img.1609e911.JPG",
     "static/media/naturo.JPG": "/static/media/naturo.2520584b.JPG",
     "static/media/nicestage3.JPG": "/static/media/nicestage3.35dac676.JPG",
     "static/media/oscar.png": "/static/media/oscar.1ca6aebd.png",
@@ -194,8 +192,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4ba1596e.js",
-    "static/js/2.27db0118.chunk.js",
-    "static/css/main.314ae358.chunk.css",
-    "static/js/main.0c048cba.chunk.js"
+    "static/js/2.6c7022f7.chunk.js",
+    "static/css/main.d537b2b9.chunk.css",
+    "static/js/main.a1bd5ad1.chunk.js"
   ]
 }
