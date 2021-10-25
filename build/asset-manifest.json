@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b72ac280.chunk.css",
-    "main.js": "/static/js/main.e67fc405.chunk.js",
-    "main.js.map": "/static/js/main.e67fc405.chunk.js.map",
+    "main.css": "/static/css/main.13bd0524.chunk.css",
+    "main.js": "/static/js/main.8c022c46.chunk.js",
+    "main.js.map": "/static/js/main.8c022c46.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
-    "static/js/2.6c7022f7.chunk.js": "/static/js/2.6c7022f7.chunk.js",
-    "static/js/2.6c7022f7.chunk.js.map": "/static/js/2.6c7022f7.chunk.js.map",
+    "static/js/2.2b64106d.chunk.js": "/static/js/2.2b64106d.chunk.js",
+    "static/js/2.2b64106d.chunk.js.map": "/static/js/2.2b64106d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.27030b0e5621afaa648e502533d7f8d7.js": "/precache-manifest.27030b0e5621afaa648e502533d7f8d7.js",
+    "precache-manifest.05f433f0aecf942ce43dddf0a2b381da.js": "/precache-manifest.05f433f0aecf942ce43dddf0a2b381da.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b72ac280.chunk.css.map": "/static/css/main.b72ac280.chunk.css.map",
-    "static/js/2.6c7022f7.chunk.js.LICENSE.txt": "/static/js/2.6c7022f7.chunk.js.LICENSE.txt",
+    "static/css/main.13bd0524.chunk.css.map": "/static/css/main.13bd0524.chunk.css.map",
+    "static/js/2.2b64106d.chunk.js.LICENSE.txt": "/static/js/2.2b64106d.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.10656857.jpg",
     "static/media/1.JPG": "/static/media/1.1b335325.JPG",
     "static/media/10.jpg": "/static/media/10.8c50bc18.jpg",
@@ -172,6 +172,7 @@
     "static/media/sc4.JPG": "/static/media/sc4.18973f7a.JPG",
     "static/media/sc7.JPG": "/static/media/sc7.e7a10f76.JPG",
     "static/media/sc8.JPG": "/static/media/sc8.3dff9c79.JPG",
+    "static/media/sixth2.jpg": "/static/media/sixth2.18c4b552.jpg",
     "static/media/soincorpsParallax.JPG": "/static/media/soincorpsParallax.4b55530e.JPG",
     "static/media/soinducorps.jpg": "/static/media/soinducorps.96555a84.jpg",
     "static/media/soleiller.png": "/static/media/soleiller.079cddc7.png",
@@ -192,8 +193,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4ba1596e.js",
-    "static/js/2.6c7022f7.chunk.js",
-    "static/css/main.b72ac280.chunk.css",
-    "static/js/main.e67fc405.chunk.js"
+    "static/js/2.2b64106d.chunk.js",
+    "static/css/main.13bd0524.chunk.css",
+    "static/js/main.8c022c46.chunk.js"
   ]
 }
