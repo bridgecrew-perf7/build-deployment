@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.13bd0524.chunk.css",
-    "main.js": "/static/js/main.8c022c46.chunk.js",
-    "main.js.map": "/static/js/main.8c022c46.chunk.js.map",
+    "main.css": "/static/css/main.2fe6d5ac.chunk.css",
+    "main.js": "/static/js/main.9b10ee96.chunk.js",
+    "main.js.map": "/static/js/main.9b10ee96.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
-    "static/js/2.2b64106d.chunk.js": "/static/js/2.2b64106d.chunk.js",
-    "static/js/2.2b64106d.chunk.js.map": "/static/js/2.2b64106d.chunk.js.map",
+    "static/js/2.95660ed6.chunk.js": "/static/js/2.95660ed6.chunk.js",
+    "static/js/2.95660ed6.chunk.js.map": "/static/js/2.95660ed6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.05f433f0aecf942ce43dddf0a2b381da.js": "/precache-manifest.05f433f0aecf942ce43dddf0a2b381da.js",
+    "precache-manifest.37d6aaf84ec7eaad39e51db7a07cbdf8.js": "/precache-manifest.37d6aaf84ec7eaad39e51db7a07cbdf8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.13bd0524.chunk.css.map": "/static/css/main.13bd0524.chunk.css.map",
-    "static/js/2.2b64106d.chunk.js.LICENSE.txt": "/static/js/2.2b64106d.chunk.js.LICENSE.txt",
+    "static/css/main.2fe6d5ac.chunk.css.map": "/static/css/main.2fe6d5ac.chunk.css.map",
+    "static/js/2.95660ed6.chunk.js.LICENSE.txt": "/static/js/2.95660ed6.chunk.js.LICENSE.txt",
+    "static/js/main.9b10ee96.chunk.js.LICENSE.txt": "/static/js/main.9b10ee96.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.10656857.jpg",
     "static/media/1.JPG": "/static/media/1.1b335325.JPG",
     "static/media/10.jpg": "/static/media/10.8c50bc18.jpg",
@@ -158,7 +159,7 @@
     "static/media/pontdecayllus.png": "/static/media/pontdecayllus.c8e4f790.png",
     "static/media/promo.JPG": "/static/media/promo.e4b528df.JPG",
     "static/media/prossecobrut.png": "/static/media/prossecobrut.e491982b.png",
-    "static/media/pub1.jpg": "/static/media/pub1.4af1b8ec.jpg",
+    "static/media/pub1.jpg": "/static/media/pub1.b47e39a2.jpg",
     "static/media/quiche.JPG": "/static/media/quiche.0045bb3a.JPG",
     "static/media/rhumArrangéAnanasPassion.png": "/static/media/rhumArrangéAnanasPassion.7a33ae9b.png",
     "static/media/right-arrow.svg": "/static/media/right-arrow.279196e3.svg",
@@ -193,8 +194,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4ba1596e.js",
-    "static/js/2.2b64106d.chunk.js",
-    "static/css/main.13bd0524.chunk.css",
-    "static/js/main.8c022c46.chunk.js"
+    "static/js/2.95660ed6.chunk.js",
+    "static/css/main.2fe6d5ac.chunk.css",
+    "static/js/main.9b10ee96.chunk.js"
   ]
 }
