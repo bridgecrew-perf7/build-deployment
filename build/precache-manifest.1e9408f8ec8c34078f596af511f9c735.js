@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1551035f150c1d2bd88b8c410211a50a",
+    "revision": "78338748a27be40d8850cecb44ae7458",
     "url": "/index.html"
   },
   {
-    "revision": "3537a34331dbcacbe745",
-    "url": "/static/css/main.2fe6d5ac.chunk.css"
+    "revision": "b421273fcdb2ca1a23d1",
+    "url": "/static/css/main.82aa8214.chunk.css"
   },
   {
-    "revision": "c3e698e643d8deb48a78",
-    "url": "/static/js/2.862aa34a.chunk.js"
+    "revision": "c0682b0f60cdbd5948a5",
+    "url": "/static/js/2.c100562c.chunk.js"
   },
   {
-    "revision": "2d0dc3ea56ea29aa89323d664321ba6d",
-    "url": "/static/js/2.862aa34a.chunk.js.LICENSE.txt"
+    "revision": "60b3816fc1b5b090afdc8f95428879ee",
+    "url": "/static/js/2.c100562c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3537a34331dbcacbe745",
-    "url": "/static/js/main.ac394450.chunk.js"
+    "revision": "b421273fcdb2ca1a23d1",
+    "url": "/static/js/main.06b78ca3.chunk.js"
   },
   {
     "revision": "262d8a892e6600a40ff19fdf7d199e41",
-    "url": "/static/js/main.ac394450.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.06b78ca3.chunk.js.LICENSE.txt"
   },
   {
     "revision": "6fc4f2c3fd5ae8d05fd1",
@@ -90,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b76940dc7094a7a7eb89996cc7ddce7e",
     "url": "/static/media/4.b76940dc.JPG"
-  },
-  {
-    "revision": "441dd7d56052f88e18b7fcc447c1a2d6",
-    "url": "/static/media/5.441dd7d5.jpg"
   },
   {
     "revision": "a99675da3edf4b1d98e26209a64a1ca6",
@@ -216,12 +212,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/PapagayoRhum.460851a4.png"
   },
   {
-    "revision": "a67bd29a51a1b8fc47a8df6c5a966bbc",
-    "url": "/static/media/Second.a67bd29a.jpg"
+    "revision": "324392314e1360b013bee24babb52e28",
+    "url": "/static/media/Second.32439231.jpg"
   },
   {
-    "revision": "9df99d4c32a05753bd2da033e6ae2a8c",
-    "url": "/static/media/Third.9df99d4c.jpg"
+    "revision": "441dd7d56052f88e18b7fcc447c1a2d6",
+    "url": "/static/media/Third.441dd7d5.jpg"
   },
   {
     "revision": "94f1091497443d0a1a1c822a72cd4d79",
