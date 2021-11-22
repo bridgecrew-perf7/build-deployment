@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.8876be3f.chunk.css",
-    "main.js": "/static/js/main.6873bb60.chunk.js",
-    "main.js.map": "/static/js/main.6873bb60.chunk.js.map",
+    "main.css": "/static/css/main.99526344.chunk.css",
+    "main.js": "/static/js/main.b0707be8.chunk.js",
+    "main.js.map": "/static/js/main.b0707be8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
-    "static/js/2.99a563c1.chunk.js": "/static/js/2.99a563c1.chunk.js",
-    "static/js/2.99a563c1.chunk.js.map": "/static/js/2.99a563c1.chunk.js.map",
+    "static/js/2.561ea364.chunk.js": "/static/js/2.561ea364.chunk.js",
+    "static/js/2.561ea364.chunk.js.map": "/static/js/2.561ea364.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cba71c0dccbed508b1fbbfaf3a049655.js": "/precache-manifest.cba71c0dccbed508b1fbbfaf3a049655.js",
+    "precache-manifest.29dc4eaf384ec445f14f4a1fcbc85d9a.js": "/precache-manifest.29dc4eaf384ec445f14f4a1fcbc85d9a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8876be3f.chunk.css.map": "/static/css/main.8876be3f.chunk.css.map",
-    "static/js/2.99a563c1.chunk.js.LICENSE.txt": "/static/js/2.99a563c1.chunk.js.LICENSE.txt",
-    "static/js/main.6873bb60.chunk.js.LICENSE.txt": "/static/js/main.6873bb60.chunk.js.LICENSE.txt",
+    "static/css/main.99526344.chunk.css.map": "/static/css/main.99526344.chunk.css.map",
+    "static/js/2.561ea364.chunk.js.LICENSE.txt": "/static/js/2.561ea364.chunk.js.LICENSE.txt",
+    "static/js/main.b0707be8.chunk.js.LICENSE.txt": "/static/js/main.b0707be8.chunk.js.LICENSE.txt",
     "static/media/1.JPG": "/static/media/1.1b335325.JPG",
     "static/media/1.png": "/static/media/1.4bd4a89e.png",
     "static/media/10.png": "/static/media/10.b7920079.png",
@@ -181,7 +181,7 @@
     "static/media/pontdecayllus.png": "/static/media/pontdecayllus.c8e4f790.png",
     "static/media/promo.JPG": "/static/media/promo.e4b528df.JPG",
     "static/media/prossecobrut.png": "/static/media/prossecobrut.e491982b.png",
-    "static/media/pub1.jpg": "/static/media/pub1.b47e39a2.jpg",
+    "static/media/pub1.png": "/static/media/pub1.c303b814.png",
     "static/media/quiche.JPG": "/static/media/quiche.0045bb3a.JPG",
     "static/media/rhumArrangéAnanasPassion.png": "/static/media/rhumArrangéAnanasPassion.7a33ae9b.png",
     "static/media/right-arrow.svg": "/static/media/right-arrow.279196e3.svg",
@@ -216,8 +216,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4ba1596e.js",
-    "static/js/2.99a563c1.chunk.js",
-    "static/css/main.8876be3f.chunk.css",
-    "static/js/main.6873bb60.chunk.js"
+    "static/js/2.561ea364.chunk.js",
+    "static/css/main.99526344.chunk.css",
+    "static/js/main.b0707be8.chunk.js"
   ]
 }
