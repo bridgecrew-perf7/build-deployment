@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32120e552ff968d76724d3cc0c2c87fa",
+    "revision": "51e9653fef3d83c6465700ce0824ed05",
     "url": "/index.html"
   },
   {
-    "revision": "0fa2ce040a881d1061eb",
-    "url": "/static/css/main.99526344.chunk.css"
+    "revision": "0f4ed35d18f7d1c76707",
+    "url": "/static/css/main.45fa2ba6.chunk.css"
   },
   {
-    "revision": "10859f835511069e5e7a",
-    "url": "/static/js/2.561ea364.chunk.js"
+    "revision": "4cffabfd16ccc0f3c394",
+    "url": "/static/js/2.00a9fa4f.chunk.js"
   },
   {
     "revision": "60b3816fc1b5b090afdc8f95428879ee",
-    "url": "/static/js/2.561ea364.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.00a9fa4f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0fa2ce040a881d1061eb",
-    "url": "/static/js/main.b0707be8.chunk.js"
+    "revision": "0f4ed35d18f7d1c76707",
+    "url": "/static/js/main.7cc33de1.chunk.js"
   },
   {
     "revision": "262d8a892e6600a40ff19fdf7d199e41",
-    "url": "/static/js/main.b0707be8.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.7cc33de1.chunk.js.LICENSE.txt"
   },
   {
     "revision": "6fc4f2c3fd5ae8d05fd1",
@@ -252,10 +252,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/FLparallax.1b335325.JPG"
   },
   {
-    "revision": "d09093427b7217efc3e57c734dfde903",
-    "url": "/static/media/First.d0909342.jpg"
-  },
-  {
     "revision": "8abbf66adc1740aa489bd7828d02c1b9",
     "url": "/static/media/FruitsLegumes.8abbf66a.JPG"
   },
@@ -346,6 +342,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "000c6e4b5283973ec595e2acfcd5ce9c",
     "url": "/static/media/bio.000c6e4b.svg"
+  },
+  {
+    "revision": "7e4c58caf2da18fa22e794a8732073c4",
+    "url": "/static/media/boost.7e4c58ca.png"
   },
   {
     "revision": "346c37202f21c8ec87f64e7dabfda05a",
@@ -640,20 +640,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nicestage3.35dac676.JPG"
   },
   {
+    "revision": "96f4f649893b915c575cf5d3f70f0f45",
+    "url": "/static/media/noel.96f4f649.jpg"
+  },
+  {
     "revision": "1ca6aebd8736d22f14872e9736ef4c81",
     "url": "/static/media/oscar.1ca6aebd.png"
-  },
-  {
-    "revision": "baf525b234600cfc62ef00cfd18948d5",
-    "url": "/static/media/p1.baf525b2.png"
-  },
-  {
-    "revision": "a48dc5db78df9e8ccdfafeb7c1a2f3ef",
-    "url": "/static/media/p2.a48dc5db.png"
-  },
-  {
-    "revision": "5fe23e171309b0f7cd1478a61f63fca2",
-    "url": "/static/media/p3.5fe23e17.png"
   },
   {
     "revision": "67d1eeba950ce3bfcb70cf7c68301542",
@@ -688,6 +680,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/painsportif lvc.875b7db2.JPG"
   },
   {
+    "revision": "a301680ba359d464223d9f74c6d9ce3c",
+    "url": "/static/media/pelin.a301680b.jpg"
+  },
+  {
     "revision": "50cb6b3ec543b28141a5b348683c8b25",
     "url": "/static/media/petitchablis.50cb6b3e.png"
   },
@@ -708,12 +704,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/promo.e4b528df.JPG"
   },
   {
+    "revision": "a6bc9abe78afe4124beba5885c63a46f",
+    "url": "/static/media/promo1.a6bc9abe.png"
+  },
+  {
+    "revision": "d714e9114b2f280741008824ec7b2478",
+    "url": "/static/media/promo2.d714e911.png"
+  },
+  {
     "revision": "e491982ba44587cddbc6bbed1667cc04",
     "url": "/static/media/prossecobrut.e491982b.png"
   },
   {
-    "revision": "c303b814eca38b507917140de2fbc3e8",
-    "url": "/static/media/pub1.c303b814.png"
+    "revision": "1e6d6763b09b15932908a05684e88b41",
+    "url": "/static/media/pub1.1e6d6763.png"
   },
   {
     "revision": "0045bb3a1e3d873e48d83e14a7df69ec",
