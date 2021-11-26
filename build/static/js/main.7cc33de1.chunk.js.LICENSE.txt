@@ -1,6 +1,0 @@
-/** @license React v16.13.1
- * paniers-mae.js
- *
- * Copyright (c) La Vie Claire, Inc. and its affiliates.
- *
- */
