@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.0920af69.chunk.css",
-    "main.js": "/static/js/main.6366edbb.chunk.js",
-    "main.js.map": "/static/js/main.6366edbb.chunk.js.map",
+    "main.js": "/static/js/main.9675b537.chunk.js",
+    "main.js.map": "/static/js/main.9675b537.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
-    "static/js/2.4eb9a8df.chunk.js": "/static/js/2.4eb9a8df.chunk.js",
-    "static/js/2.4eb9a8df.chunk.js.map": "/static/js/2.4eb9a8df.chunk.js.map",
+    "static/js/2.b023cd2d.chunk.js": "/static/js/2.b023cd2d.chunk.js",
+    "static/js/2.b023cd2d.chunk.js.map": "/static/js/2.b023cd2d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.13eb2dbd24a956baa4a56820f6606fe3.js": "/precache-manifest.13eb2dbd24a956baa4a56820f6606fe3.js",
+    "precache-manifest.8be85bee56ff9e948e136e0a3b006668.js": "/precache-manifest.8be85bee56ff9e948e136e0a3b006668.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0920af69.chunk.css.map": "/static/css/main.0920af69.chunk.css.map",
-    "static/js/2.4eb9a8df.chunk.js.LICENSE.txt": "/static/js/2.4eb9a8df.chunk.js.LICENSE.txt",
-    "static/js/main.6366edbb.chunk.js.LICENSE.txt": "/static/js/main.6366edbb.chunk.js.LICENSE.txt",
+    "static/js/2.b023cd2d.chunk.js.LICENSE.txt": "/static/js/2.b023cd2d.chunk.js.LICENSE.txt",
+    "static/js/main.9675b537.chunk.js.LICENSE.txt": "/static/js/main.9675b537.chunk.js.LICENSE.txt",
     "static/media/1.JPG": "/static/media/1.1b335325.JPG",
     "static/media/1.png": "/static/media/1.4bd4a89e.png",
     "static/media/10.png": "/static/media/10.b7920079.png",
@@ -179,8 +179,12 @@
     "static/media/plant.svg": "/static/media/plant.25382a35.svg",
     "static/media/pontdecayllus.png": "/static/media/pontdecayllus.c8e4f790.png",
     "static/media/promo.JPG": "/static/media/promo.e4b528df.JPG",
-    "static/media/promo1.png": "/static/media/promo1.a6bc9abe.png",
-    "static/media/promo2.png": "/static/media/promo2.d714e911.png",
+    "static/media/promo1.png": "/static/media/promo1.2dba1a4b.png",
+    "static/media/promo2.png": "/static/media/promo2.7d6e59fb.png",
+    "static/media/promo3.png": "/static/media/promo3.03b160da.png",
+    "static/media/promo4.png": "/static/media/promo4.3b83c9f4.png",
+    "static/media/promo5.png": "/static/media/promo5.c957e82a.png",
+    "static/media/promo6.png": "/static/media/promo6.28f99889.png",
     "static/media/prossecobrut.png": "/static/media/prossecobrut.e491982b.png",
     "static/media/pub1.png": "/static/media/pub1.1e6d6763.png",
     "static/media/quiche.JPG": "/static/media/quiche.0045bb3a.JPG",
@@ -217,8 +221,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4ba1596e.js",
-    "static/js/2.4eb9a8df.chunk.js",
+    "static/js/2.b023cd2d.chunk.js",
     "static/css/main.0920af69.chunk.css",
-    "static/js/main.6366edbb.chunk.js"
+    "static/js/main.9675b537.chunk.js"
   ]
 }
